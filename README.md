@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Foodie-App-react-Native-
+>>>>>>> 5121b5cc5fabce109b80e1d1aec1ce08287a849f
 # Foodie 🍳
 
 A recipe app built with React Native + Expo. Browse recipes by category,
